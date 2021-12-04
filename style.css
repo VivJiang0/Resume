@@ -1,0 +1,28 @@
+header{
+  font-family: Georgia;
+  padding-top: 15px;
+}
+
+
+body{
+  margin:40px 20px;
+  border:#e2dcbb 10px double;
+  
+}
+
+
+h1{
+  margin:0px;
+  text-transform:uppercase;
+}
+
+
+.classname{
+  background-color: #daf8f8;
+
+}
+
+#ID_name{
+  border-top: dashed 4px #dcfce7;
+  border-bottom: dashed 4px #dcfce7;
+}
